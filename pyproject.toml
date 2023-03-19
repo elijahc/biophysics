@@ -6,9 +6,14 @@ authors = ["Elijah Christensen <ejd.christensen@gmail.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "^3.7"
+# python = ">=3.7.3,<3.9.7 || >3.9.7,<3.11"
+python = ">=3.8.4,<4.0"
+pandas = ">=1.2"
+jupyter = "^1.0.0"
+ipykernel = "^5.3.4"
 
 [tool.poetry.dev-dependencies]
+pytest = "^5.2"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
