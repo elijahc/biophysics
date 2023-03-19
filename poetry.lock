@@ -1221,17 +1221,6 @@ files = [
 ptyprocess = ">=0.5"
 
 [[package]]
-name = "physics"
-version = "2.0.0"
-description = "An Educational project about Physics"
-category = "main"
-optional = false
-python-versions = "*"
-files = [
-    {file = "physics-2.0.0.tar.gz", hash = "sha256:da2f2477e3b4e08d4d291238fae0c93283147c134a144224c1b73d5f48ef87a6"},
-]
-
-[[package]]
 name = "pickleshare"
 version = "0.7.5"
 description = "Tiny 'shelve'-like database with concurrency support"
@@ -1985,4 +1974,4 @@ testing = ["big-O", "flake8 (<5)", "jaraco.functools", "jaraco.itertools", "more
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.8.4,<4.0"
-content-hash = "154992315172c5bb4bc706e3cc5a508761fe0ce02f95addc348077e53f15a3a3"
+content-hash = "d1e0bebf04d17193d1ab8cc72778e139da29b7d1144256752955107034a427fd"

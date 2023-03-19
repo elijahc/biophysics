@@ -1,0 +1,8 @@
+organ,rest,light_exercise,heavy_exercise,maximal_exercise
+brain,750,750,750,750
+heart,250,350,750,1000
+muscle,1200,4500,12500,22000
+skin,500,1500,1900,600
+kidney,1100,900,600,250
+abdomen,1400,1100,600,300
+other,600,400,400,100
